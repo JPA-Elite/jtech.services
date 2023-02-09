@@ -192,7 +192,7 @@
         </div>
     </div>
 
-    <div class="f-page">
+    <!-- <div class="f-page">
         <div class="fst-fpage-cont">
             <h2>What is G-Pay?</h2>
             <p>G-pay is an accurate billing services which you can select a lot of payment options that can paid you faster
@@ -365,7 +365,7 @@
             </div>
         </a>
 
-    </div>
+    </div> -->
 
     <footer>
         <div class="d-flex align-items-center justify-content-between">
