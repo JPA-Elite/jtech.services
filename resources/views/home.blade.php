@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>:asse
 <html lang="en">
 
 <head>
@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homepage | G-Pay</title>
-    <link rel="icon" type="image/x-icon" href="{{ URL::asset('/src/img/logo.png')}}">
+    <link rel="icon" type="image/x-icon" href="https://github.com/JPA-EliteDeveloper/images/blob/main/logo.png?raw=true">
     <link rel="stylesheet" type="text/css" href="{{ URL::asset('/css/home.css') }}">
     <link href="{{ URL::asset('/css/bootstrap.css') }}" rel="stylesheet">
 </head>
@@ -17,7 +17,7 @@
             <a href="/gpay.com/homepage/" class="text-decoration-none">
                 <div class="logo d-grid gap-2">
                     <div class="d-flex">
-                        <img src="/src/img/logo.png" alt="logo">
+                        <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/logo.png?raw=true" alt="logo">
                         <div class="title">
                             <h1 class="text-purple">G-Pay</h1>
                             <p>Invoice & Billings</p>
@@ -28,7 +28,7 @@
             <ul class="d-flex gap-4 ">
                 <div class="d-flex align-items-end gap-1 features ">
                     <li class="f1">Features</li>
-                    <li class="f1"><img class="w-50 " src="/src/img/arrow-down.svg" alt="arrow-down"></li>
+                    <li class="f1"><img class="w-50 " src="https://raw.githubusercontent.com/JPA-EliteDeveloper/images/4055a149f42425364683f7973ce8f7f1f2ba9d54/arrow-down.svg" alt="arrow-down"></li>
                     <div class="f-pop-up">
                         <a href="/gpay.com/features-client/">
                             <h6>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="d-flex align-items-end gap-1 emp-type">
                     <li class="f2">Who it’s for</li>
-                    <li class="f2"><img class="w-50" src="/src/img/arrow-down.svg" alt="arrow-down"></li>
+                    <li class="f2"><img class="w-50" src="https://raw.githubusercontent.com/JPA-EliteDeveloper/images/4055a149f42425364683f7973ce8f7f1f2ba9d54/arrow-down.svg" alt="arrow-down"></li>
                     <div class="s-pop-up">
                         <a href="/gpay.com/whoitsfor-self-employed-professionals/">
                             <h6>
@@ -126,7 +126,7 @@
         <div class="d-flex align-items-center justify-content-center user-info">
             <div class="d-flex align-items-end gap-1">
                 <li class="f3_pop">Help</li>
-                <li class="f3_pop"><img class="w-50" src="/src/img/arrow-down.svg" alt="arrow-down"></li>
+                <li class="f3_pop"><img class="w-50" src="https://raw.githubusercontent.com/JPA-EliteDeveloper/images/4055a149f42425364683f7973ce8f7f1f2ba9d54/arrow-down.svg" alt="arrow-down"></li>
                 <div class="t-pop-up">
                     <a href="#">
                         <h6>
@@ -187,7 +187,7 @@
     <div class="search-bar">
 
         <div class="input-group mb-3 position-relative h-100" style="z-index: 1;">
-            <span class="input-group-text"><img class="w-50 m-auto" src="/src/img/search.png" alt=""></span>
+            <span class="input-group-text"><img class="w-50 m-auto" src="https://github.com/JPA-EliteDeveloper/images/blob/main/search.png?raw=true" alt=""></span>
             <input type="search" class="form-control" placeholder="Search for your concerns...">
         </div>
     </div>
@@ -200,9 +200,9 @@
             </p>
             <p>Recurring invoices, Automated Reminders,
                 and <br> Online Payments make it easy.</p>
-            <img src="/src/img/arrow-right.svg" alt="">
+            <img src="https://raw.githubusercontent.com/JPA-EliteDeveloper/images/4055a149f42425364683f7973ce8f7f1f2ba9d54/arrow-right.svg" alt="">
         </div>
-        <img class="page-right-img w-30" src="/src/img/first-page-right.svg" alt="">
+        <img class="page-right-img w-30" src="https://raw.githubusercontent.com/JPA-EliteDeveloper/images/4055a149f42425364683f7973ce8f7f1f2ba9d54/first-page-right.svg" alt="">
 
     </div>
     <div class="s-page">
@@ -221,7 +221,7 @@
             </div>
             <div class="d-flex gap-3">
                 <div class="pg-content">
-                    <img src="/src/img/freelancer.png" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/freelancer.png?raw=true" alt="">
                     <h3>Freelancers
                         <br><br>
                     </h3>
@@ -231,18 +231,18 @@
 
                 </div>
                 <div class="pg-content">
-                    <img src="/src/img/self.png" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/self.png?raw=true" alt="">
                     <h3>Self-Employed
                         Professionals </h3>
                     <p>Solutions and plans designed to empower self-employed professionals.</p>
                 </div>
                 <div class="pg-content">
-                    <img src="/src/img/construct.png" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/construct.png?raw=true" alt="">
                     <h3>Businesses With
                         Contractors</h3>
                     <p>Features and plans designed for businesses with multiple contractors.</p>
                 </div>
-                <div class="pg-content"> <img src="/src/img/small.png" alt="">
+                <div class="pg-content"> <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/small.png?raw=true" alt="">
                     <h3>Businesses With
                         Employees</h3>
                     <p>Robust features and customized plans for scaling businesses with multiple employees and teams of accountants.</p>
@@ -260,7 +260,7 @@
     <div class="t-page">
         <h1>Customer Support</h1>
         <div class="d-flex align-items-center justify-content-center gap-5">
-            <img class="w-30" src="/src/img/online.png" alt="">
+            <img class="w-30" src="https://github.com/JPA-EliteDeveloper/images/blob/main/online.png?raw=true" alt="">
             <div>
                 <div>
                     <div class="d-flex align-items-center gap-2">
@@ -371,7 +371,7 @@
         <div class="d-flex align-items-center justify-content-between">
             <div class="d-flex gap-5">
                 <div class="d-flex">
-                    <img class="logo-img" src="/src/img/logo.png" alt="logo">
+                    <img class="logo-img" src="https://github.com/JPA-EliteDeveloper/images/blob/main/logo.png?raw=true" alt="logo">
                     <div class="title">
                         <h1 class="text-purple fs-2">G-Pay</h1>
                         <p class="text-light">Invoice & Billings</p>
@@ -379,10 +379,10 @@
                 </div>
 
                 <div class="social-media-links">
-                    <img src="/src/img/linkedin.png" alt="">
-                    <img src="/src/img/twitter.png" alt="">
-                    <img src="/src/img/facebook.png" alt="">
-                    <img src="/src/img/youtube.png" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/linkedin.png?raw=true" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/twitter.png?raw=true" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/facebook.png?raw=true" alt="">
+                    <img src="https://github.com/JPA-EliteDeveloper/images/blob/main/youtube.png?raw=true" alt="">
                 </div>
 
             </div>
