@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Landing Page
+Route::view('/', 'home');
+Route::view('/gpay.com/homepage/', 'home');
+Route::view('/gpay.com/about_us/', 'about');
+Route::view('/gpay.com/pricing/', 'pricing');
+Route::view('/gpay.com/demo/', 'demo');
