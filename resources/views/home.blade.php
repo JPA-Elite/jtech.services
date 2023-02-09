@@ -12,7 +12,7 @@
 </head>
 
 <body class="body">
-    <nav>
+    <!-- <nav>
         <div class="d-flex align-items-end gap-5">
             <a href="/gpay.com/homepage/" class="text-decoration-none">
                 <div class="logo d-grid gap-2">
@@ -179,7 +179,7 @@
 
         </div>
 
-    </nav>
+    </nav> -->
     <div class="back-image">
         <div class="back-image-mask"></div>
     </div>
