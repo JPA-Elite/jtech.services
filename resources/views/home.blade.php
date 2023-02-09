@@ -1,4 +1,4 @@
-<!DOCTYPE html>:asse
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
